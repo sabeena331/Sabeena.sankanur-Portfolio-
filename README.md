@@ -1,6 +1,6 @@
 # Sabeena Sankanur - Senior Technical Writer Portfolio
 
-Professional portfolio showcasing **9.5+ years** of technical writing experience in fintech, SaaS, telecom, and enterprise products.
+Senior Technical Writer in creating and managing technical documentation for enterprise software, IAM, FinTech, Telecom, and SaaS products. Expertise in analyzing documentation requirements, developing user manuals, installation and configuration guides, API documentation, online help, and knowledge base content for diverse audiences. Skilled in DITA/XML structured authoring, Arbortext, Adobe FrameMaker, MadCap Flare, and documentation lifecycle management. Strong experience collaborating with Product Management, Engineering, QA, and cross-functional teams in Agile environments to deliver high-quality, user-centric documentation. Proficient in technical editing, content reuse, localization support, AI-assisted documentation, and translating complex technical concepts into clear, accurate documentation
 
 ## 🎯 Features
 
